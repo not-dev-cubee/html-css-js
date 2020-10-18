@@ -1,4 +1,4 @@
 # html-css-js
-learning about Html, CSS, JavaScript (Personal reposiotry)
+html only (~ing)
 
 https://not-dev-cubee.github.io/html-css-js/
